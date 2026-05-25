@@ -72,4 +72,4 @@ Melalui teorema *Eckart-Young-Mirsky*, SVD memungkinkan kita melakukan reduksi d
 
 Program demonstrasi interaktif *Dual-Mode* (Simulasi & Database Foto Asli 20 Laki-laki + 10 Perempuan) yang dilengkapi dengan fitur *Form Fields* visual dapat diakses langsung oleh Dosen penguji melalui tautan di bawah ini:
 
-👉 **[Google Colab Notebook - Praktikum SVD Interaktif](https://colab.research.google.com/drive/1_1hXeEx-2mbcqy2w4lCcM62-dSDkb1eL?usp=sharing)**
+**[Google Colab Notebook - Praktikum SVD Interaktif](https://colab.research.google.com/drive/1_1hXeEx-2mbcqy2w4lCcM62-dSDkb1eL?usp=sharing)**
